@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberChallenge", "PrimeNumberChallenge\PrimeNumberChallenge.csproj", "{16FF167F-DCB0-416A-8410-CFC9E606098E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPrimeNumberChallenge", "TestPrimeNumberChallenge\TestPrimeNumberChallenge.csproj", "{97594200-2AE9-4659-B589-411D15878277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FF167F-DCB0-416A-8410-CFC9E606098E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FF167F-DCB0-416A-8410-CFC9E606098E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FF167F-DCB0-416A-8410-CFC9E606098E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FF167F-DCB0-416A-8410-CFC9E606098E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97594200-2AE9-4659-B589-411D15878277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97594200-2AE9-4659-B589-411D15878277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97594200-2AE9-4659-B589-411D15878277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97594200-2AE9-4659-B589-411D15878277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A19BB3F7-BD74-48EF-BC74-501C55E944A6}
+	EndGlobalSection
+EndGlobal

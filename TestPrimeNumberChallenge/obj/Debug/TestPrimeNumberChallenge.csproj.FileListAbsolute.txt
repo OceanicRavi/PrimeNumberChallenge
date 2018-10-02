@@ -1,0 +1,17 @@
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\obj\Debug\TestPrimeNumberChallenge.csprojResolveAssemblyReference.cache
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\obj\Debug\TestPrimeNumberChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\TestPrimeNumberChallenge.dll
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\TestPrimeNumberChallenge.pdb
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.exe
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.pdb
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.exe.config
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\obj\Debug\TestPrimeNumberChallenge.csproj.CopyComplete
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\obj\Debug\TestPrimeNumberChallenge.dll
+C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\TestPrimeNumberChallenge\obj\Debug\TestPrimeNumberChallenge.pdb
