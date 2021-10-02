@@ -19,26 +19,11 @@ namespace PrimeNumberChallenge
         /// <returns></returns>
         public static List<int> GetPrimeNumbersFromRange(int maxValue)
         {
-
-            List<int> primeNumbers = new List<int>();
-            int foo;
-            for (int num = 1; num <= maxValue; num++)
-            {
-                foo = 0;
-
-                for (int i = 2; i <= num / 2; i++)
-                {
-                    if (num % i == 0)
-                    {
-                        foo++;
-                        break;
-                    }
-                }
-
-                if (foo == 0 && num != 1)
-                    primeNumbers.Add(num);
-            }
-            return primeNumbers;
+ 
+            var r = from i in Enumerable.Range(2, maxValue - 1).AsParallel()
+                    where Enumerable.Range(1, (int)Math.Sqrt(i)).All(j => j == 1 || i % j != 0)
+                    select i;
+            return r.ToList();
         }
 
 

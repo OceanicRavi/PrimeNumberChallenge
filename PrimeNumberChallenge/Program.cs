@@ -15,12 +15,15 @@ namespace PrimeNumberChallenge
         static void Main(string[] args)
         {
             Console.WriteLine("---Printing four prime numbers satisfying the critera---");
+            DateTime dt1 = DateTime.Now;
             FindNumber findNum = new FindNumber();
             List<int> result = findNum.GetFourPrimeNumbers();
             foreach(int num in result)
             {
                 Console.WriteLine(num);
             }
+            TimeSpan tp = DateTime.Now - dt1;
+            Console.WriteLine("Time taken in minutes: " + tp.TotalMinutes);
             Console.ReadLine();
         }
     }

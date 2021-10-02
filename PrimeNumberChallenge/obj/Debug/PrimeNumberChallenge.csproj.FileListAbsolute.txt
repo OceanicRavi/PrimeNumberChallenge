@@ -12,3 +12,10 @@ C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\PrimeNumberChal
 C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.exe
 C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.pdb
 C:\Users\ravi\Source\Repos\FourPrimeNumbers\PrimeNumberChallenge\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.csprojResolveAssemblyReference.cache
+C:\Users\18rav\Source\Repos\PrimeNumberChallenge2\PrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.exe.config
+C:\Users\18rav\Source\Repos\PrimeNumberChallenge2\PrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.exe
+C:\Users\18rav\Source\Repos\PrimeNumberChallenge2\PrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.pdb
+C:\Users\18rav\Source\Repos\PrimeNumberChallenge2\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.csprojAssemblyReference.cache
+C:\Users\18rav\Source\Repos\PrimeNumberChallenge2\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.csproj.CoreCompileInputs.cache
+C:\Users\18rav\Source\Repos\PrimeNumberChallenge2\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.exe
+C:\Users\18rav\Source\Repos\PrimeNumberChallenge2\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.pdb

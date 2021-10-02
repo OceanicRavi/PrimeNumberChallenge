@@ -20,6 +20,7 @@ namespace PrimeNumberChallenge
         /// <returns></returns>
         public List<int> GetFourPrimeNumbers()
         {
+            Console.WriteLine("Getting Prime numbers between 0 to 1000");
             ListOfPrimeNumbers = Helper.GetPrimeNumbersFromRange(1000);           
             int[] result = GetFourNumbers(ListOfPrimeNumbers);
             return result.ToList();
@@ -36,15 +37,15 @@ namespace PrimeNumberChallenge
         {
             //Function will proceed for Value greater than 11 digits.
             if (Value.ToString().Length < 12)
-            {
-                return false;
-            }
+                {
+                    return false;
+                }
             char[] temp = Value.ToString().ToCharArray();
             int[] foo = new int[temp.Count()];
-            for(int i=0;i<temp.Count();i++)
+            for (int i = 0; i < temp.Count(); i++)
             {
                 foo[i] = Convert.ToInt32(temp[i]);
-                if((i>0) && (foo[i]!=foo[i-1] && foo[i] != foo[i-1]+1))
+                if ((i > 0) && (foo[i] != foo[i - 1] && foo[i] != foo[i - 1] + 1))
                 {
                     return false;
                 }
@@ -67,6 +68,7 @@ namespace PrimeNumberChallenge
             {
                 int[] numbers = new int[4];
                 List<Tuple<int, int>> subset = Helper.GetSubset(listOfPrimeNumbers);
+                Console.WriteLine("Finding four prime numbers that satisfy the criteria: ");
                 foreach (var sub1 in subset)
                 {
                     foreach (var sub2 in subset)
